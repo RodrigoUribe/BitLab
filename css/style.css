@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+  html {
+    font-family: 'lato' sans-serif;
+    font-size: 16px;
+    word-spacing: 1px;
+  }
+
+ .home-hero {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.border-white {
+  border: 1px solid #ffffff;
+}
+
+.hover-text-grey-darkest:hover{
+  color: #3d4852 !important;
+}
+
+.transition:hover{
+  transition: .2s;
+}
+
+.no-underline {
+  text-decoration: none !important;
+}
+
+.font-bold {
+  font-weight: 700 !important;
+}
+
+.rounded {
+  border-radius: .25rem !important;
+}
+
+button {
+  font-family: inherit;
+}
+
+.container {
+  max-width: 992px;
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.main-menu {
+  transition: .3s all ease;
+  height: 85px;
+}
+
+.main-menu .link-menu {
+  font-weight: 700;
+  border-bottom: 3px solid transparent;
+  height: 100%;
+  line-height: 6rem;
+  transition: .3s all ease;
+}
+
+.main-menu .bg-transparent .logo-white {
+  display: block;
+}
+
+.text-purple {
+  color: #481ae7 !important;
+}
+
+.font-bold {
+  font-weight: 700 !important;
+}
+
+.leanding-normal {
+  line-height: 1.5 !important;
+}
+
+.text-lg {
+ font-size:  1.125rem !important;
+}
+.montserrat {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.text-4x1 {
+  font-size: 2.25rem !important;
+}
+
+.mb-8 {
+  margin-bottom: 2rem !important;
+}
+
+.my-24 {
+  margin-top: 6rem !important;
+  margin-bottom: 6rem !important;
+}
+
+.px-8 {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+/*content*/
+
+  /*.lg\:w-1\/3 {
+    width: 33.33333% !important;
+  }
+
+  .md\:w-1\/2 {
+    width: 50% !important;
+  }
+
+  .md\:mb-16 {
+    margin-bottom: 4rem !important;
+  }
+
+  .w-full {
+    width:100% !important;
+  }
+
+  .lg\:mx-2 {
+    margin-left: .5rem !important;
+    margin-right: .5rem !important;
+    }*/
+
+      /*cards*/
+
+
+.lg\:border-l-2 {
+    border-left-width: 2px !important;
+}
+
+.border-grey-light {
+    border-color: #f7f7f7 !important;
+}
+
+.md\:px-8 {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+.md\:border-b-0 {
+    border-bottom-width: 0 !important;
+}
+
+.md\:rounded {
+    border-radius: .25rem !important;
+}
+
+.simple-card {
+  transition: .2s ease;
+}
